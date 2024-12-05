@@ -14,6 +14,8 @@
 
 Line
 
+Link: https://github.com/Bluemangoo/markdown-renderer-vitepress
+
 - List 1
   - Sublist
     - Sub-sublist
@@ -61,5 +63,7 @@ graph TD;
   B-->D;
   C-->D;
 ```
+
+Use `ctrl+P` to print this page.
 
 **Print in light mode!!!**
