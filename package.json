@@ -21,6 +21,7 @@
     "vue": "^3.5.13"
   },
   "dependencies": {
-    "dayjs": "^1.11.13"
+    "dayjs": "^1.11.13",
+    "markdown-it-mathjax3": "^4.3.2"
   }
 }
