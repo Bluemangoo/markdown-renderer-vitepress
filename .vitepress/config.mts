@@ -19,6 +19,7 @@ export default withMermaid({
             },
         },
     },
+    titleTemplate: false,
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
     }
